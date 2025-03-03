@@ -1,2 +1,3 @@
 # inzyneria_oprogramowania_25
-Firtst repo for the IO UEP
+First repo for the IO UEP.
+To jest repo testowe.
