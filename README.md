@@ -30,9 +30,10 @@ First repo for the IO UEP.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliashylina&" alt="nataliashylina" /></p>
 
 
-#Przyklad: "Moj ulubiony film"
+### Przyklad zadania: "Moj ulubiony film"
+
 Treść zadania:
-#Funkcja nazywac sie ma: reverse_film_name
+#### Funkcja nazywac sie ma: `reverse_film_name`
 która przyjmuje jako argument nazwę filmu (ciąg znaków, czyli string) i zwraca ją w odwróconej kolejności.
 Przykład wejścia i wyjścia:
 Wejście: "Harry Potter"
