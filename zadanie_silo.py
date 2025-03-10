@@ -27,6 +27,8 @@ def oblicz_pietra():
             print(f"{pietro_koncowe - pietro_startowe} w dol")
         elif pietro_startowe > pietro_koncowe:
             print(f"{pietro_startowe - pietro_koncowe} w gore")
+        else:
+            print("Zostajesz na tym samym pietrze")
 
     except ValueError:
         print("Error")
