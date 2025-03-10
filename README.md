@@ -28,3 +28,17 @@ First repo for the IO UEP.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nataliashylina&show_icons=true&locale=en" alt="nataliashylina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliashylina&" alt="nataliashylina" /></p>
+
+
+#Przyklad: "Moj ulubiony film"
+Treść zadania:
+#Funkcja nazywac sie ma: reverse_film_name
+która przyjmuje jako argument nazwę filmu (ciąg znaków, czyli string) i zwraca ją w odwróconej kolejności.
+Przykład wejścia i wyjścia:
+Wejście: "Harry Potter"
+Wyjście: "rettoP yrraH"
+Wskazówki do rozwiązania:
+W Pythonie można odwrócić tekst za pomocą operatora [::-1], np. "Python"[::-1] zwróci "nohtyP".
+Funkcja powinna zwracać wynik, a nie tylko go wypisywać.
+Możesz przetestować funkcję, wywołując ją z różnymi nazwami filmów.
+
