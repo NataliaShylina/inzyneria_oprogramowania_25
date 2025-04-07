@@ -406,13 +406,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gn5Ju1YnGxwZPbSIlJPx-117" value="&lt;p style=&quot;margin: 0px 0px 5px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;tworzy dla pacjenta nową wizytę&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 5px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: start; white-space: normal; font-family: Helvetica;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(termin, lekarz, pacjent)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.2332" y="10" relative="1" as="geometry">
-            <mxPoint x="279.3888888888889" y="588.0000000000005" as="sourcePoint" />
-            <mxPoint x="734.5000000000005" y="588.0000000000005" as="targetPoint" />
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Gn5Ju1YnGxwZPbSIlJPx-120" value="&lt;span style=&quot;font-family: monospace; font-size: 10px; text-align: left; white-space: normal;&quot;&gt;zaakceptujWizytę()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="588" width="130" height="30" as="geometry" />
         </mxCell>
@@ -462,6 +455,20 @@
             <mxPoint x="670" y="680" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn5Ju1YnGxwZPbSIlJPx-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285.0800000000002" y="593" as="sourcePoint" />
+            <mxPoint x="285.04" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285.04" y="590" />
+              <mxPoint x="350.04" y="590" />
+              <mxPoint x="350.04" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn5Ju1YnGxwZPbSIlJPx-139" value="&lt;p style=&quot;font-size: 11px; background-color: rgb(255, 255, 255); margin: 0px 0px 5px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;tworzy dla pacjenta nową wizytę&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 11px; background-color: rgb(255, 255, 255); margin: 0px 0px 5px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: start; white-space: normal; font-family: Helvetica;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(termin, lekarz, pacjent)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="598" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
